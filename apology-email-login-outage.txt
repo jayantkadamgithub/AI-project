@@ -1,0 +1,17 @@
+Subject: Update on Yesterday's Login Service Disruption
+
+Dear [Customer Name],
+
+We sincerely apologize for the login service disruption you experienced yesterday between [start time] and [end time]. We understand this 45-minute outage prevented your team from accessing critical systems and impacted your operations.
+
+Our engineering team identified the root cause as a database connection pool saturation during peak load. We've implemented additional connection pooling capacity and enhanced monitoring to prevent recurrence.
+
+We take full responsibility for this incident and the inconvenience it caused. I'd like to schedule a call this week to discuss the incident in detail, review our corrective measures, and address any concerns you may have.
+
+Please let me know your availability, or feel free to reach me directly at [phone/email].
+
+Thank you for your patience and continued partnership.
+
+Sincerely,
+[Your Name]
+[Title]
